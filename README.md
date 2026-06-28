@@ -1,2 +1,11 @@
 # barber-site
 Barber Nicolae 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Мой сайт</title>
+</head>
+<body>
+  <h1>Привет 👋</h1>
+</body>
+</html>
